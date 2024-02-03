@@ -1,0 +1,101 @@
+User ID,Age,Course,Mood,Languages,Interests,Semester
+1,34,Data Science,"['running', 'language_exchange', 'coffee']","['Spanish', 'Japanese', 'German', 'French', 'English']","['traveling', 'hiking', 'music', 'gaming', 'photography', 'chess', 'sports', 'programming', 'cooking']",5
+2,34,Economics,"['coffee', 'gym', 'lunch']","['English', 'Spanish', 'French', 'Japanese']","['reading', 'sports', 'music', 'cooking', 'hiking', 'gaming', 'photography']",8
+3,27,Data Science,['lunch'],"['French', 'German', 'Japanese', 'Spanish']","['gym', 'photography', 'traveling', 'sports', 'cooking']",2
+4,26,Economics,"['coffee', 'gaming']","['Japanese', 'Spanish', 'German', 'French']","['programming', 'music', 'photography', 'cooking']",6
+5,31,Economics,"['gaming', 'study buddy', 'coffee']","['Spanish', 'Chinese', 'French']","['sports', 'traveling', 'music', 'photography', 'hiking', 'programming', 'gym', 'cooking', 'reading']",2
+6,19,Economics,['running'],"['Spanish', 'English', 'German', 'French']","['cooking', 'sports', 'traveling']",4
+7,31,Economics,['running'],"['French', 'Spanish', 'German']","['gaming', 'traveling', 'hiking', 'photography']",1
+8,35,Data Science,"['lunch', 'language_exchange']","['German', 'Japanese', 'English']","['sports', 'photography', 'gym', 'chess']",2
+9,22,Biology,"['study buddy', 'running', 'gaming']","['Chinese', 'German']","['hiking', 'music', 'traveling', 'photography', 'gym', 'reading']",7
+10,22,Biology,['gym'],['English'],"['photography', 'sports', 'gaming']",8
+11,20,Computer Science,"['language_exchange', 'gym', 'running']","['German', 'Chinese', 'Japanese', 'French', 'Spanish']","['photography', 'chess', 'sports', 'reading', 'programming', 'music', 'hiking', 'cooking', 'gym']",4
+12,23,Economics,"['gym', 'lunch']",['Japanese'],"['music', 'gym', 'programming', 'traveling']",5
+13,22,Computer Science,"['gym', 'coffee', 'lunch']","['German', 'Spanish', 'French']","['reading', 'gaming', 'chess', 'hiking', 'gym', 'programming', 'music', 'sports', 'cooking', 'traveling']",1
+14,20,Economics,['study buddy'],"['Japanese', 'Spanish', 'Chinese', 'English', 'French']","['programming', 'gym', 'sports']",4
+15,35,Psychology,"['gaming', 'lunch']","['German', 'Japanese', 'English']","['chess', 'music', 'reading', 'photography', 'programming', 'hiking', 'gaming', 'gym', 'traveling']",8
+16,19,Economics,"['coffee', 'study buddy', 'running']","['German', 'Spanish', 'French', 'English', 'Chinese']","['photography', 'gym', 'sports', 'cooking', 'chess', 'programming', 'music', 'traveling', 'gaming', 'reading']",7
+17,31,Economics,['gaming'],['Chinese'],"['chess', 'gym', 'reading', 'programming', 'music', 'hiking', 'photography', 'gaming']",5
+18,29,Data Science,['gym'],['English'],"['sports', 'traveling', 'hiking', 'programming', 'chess', 'gym', 'cooking']",1
+19,24,Engineering,"['running', 'lunch', 'coffee']","['German', 'French']","['chess', 'gym', 'reading', 'photography', 'traveling', 'cooking', 'gaming', 'music']",6
+20,26,Psychology,"['language_exchange', 'gym', 'lunch']","['French', 'Japanese', 'German']","['traveling', 'music', 'cooking']",7
+21,25,Engineering,"['gym', 'lunch', 'study buddy']","['French', 'Spanish', 'German', 'Japanese', 'English']","['cooking', 'sports', 'music', 'chess', 'gym']",6
+22,32,Engineering,['study buddy'],"['Japanese', 'English', 'Spanish', 'French']","['programming', 'gaming', 'hiking', 'sports', 'music', 'chess', 'reading', 'photography', 'traveling']",7
+23,29,Engineering,"['language_exchange', 'gaming', 'coffee']","['German', 'English', 'French', 'Chinese', 'Japanese']","['reading', 'chess', 'gaming', 'photography', 'gym', 'cooking', 'traveling', 'programming']",1
+24,34,Psychology,['gaming'],"['Spanish', 'German', 'English']","['gaming', 'gym', 'sports', 'chess', 'music', 'cooking', 'traveling']",8
+25,30,Psychology,"['lunch', 'study buddy', 'language_exchange']","['German', 'English']","['cooking', 'sports', 'gym', 'chess', 'reading', 'programming', 'gaming', 'music', 'traveling', 'photography']",6
+26,28,Engineering,"['gaming', 'study buddy']","['Spanish', 'Japanese', 'Chinese', 'German', 'French']","['music', 'reading', 'photography', 'gym', 'cooking', 'hiking', 'sports']",6
+27,34,Computer Science,"['language_exchange', 'gaming', 'coffee']","['Chinese', 'French', 'Japanese']","['sports', 'cooking', 'chess', 'reading']",8
+28,32,Computer Science,"['gaming', 'language_exchange']",['Chinese'],"['gaming', 'gym', 'photography']",8
+29,30,Biology,"['running', 'coffee']","['Spanish', 'Japanese', 'English']","['hiking', 'chess', 'music', 'traveling', 'cooking']",5
+30,24,Biology,['running'],"['English', 'German']","['photography', 'traveling', 'reading', 'hiking', 'gaming', 'cooking', 'gym', 'programming', 'sports']",2
+31,18,Psychology,['gym'],"['Japanese', 'Chinese']","['gaming', 'chess', 'cooking', 'hiking', 'music']",7
+32,22,Biology,"['lunch', 'gaming']","['English', 'French']","['gym', 'programming', 'music', 'hiking']",8
+33,28,Computer Science,"['study buddy', 'coffee', 'running']","['Japanese', 'French', 'Chinese', 'Spanish', 'German']","['programming', 'cooking', 'reading']",4
+34,24,Computer Science,['gaming'],"['German', 'Japanese', 'English', 'Spanish']","['reading', 'chess', 'gym', 'sports', 'programming', 'gaming', 'traveling', 'photography']",3
+35,31,Biology,['running'],"['Chinese', 'French', 'English']","['music', 'photography', 'hiking', 'chess', 'gaming', 'sports', 'programming', 'gym']",7
+36,16,Data Science,"['gym', 'coffee']","['French', 'Spanish', 'Chinese', 'English', 'Japanese']","['programming', 'gaming', 'sports', 'hiking']",4
+37,31,Biology,['language_exchange'],"['Japanese', 'Spanish', 'English']","['music', 'gaming', 'cooking', 'programming', 'hiking', 'chess', 'traveling', 'photography', 'sports', 'gym']",6
+38,17,Psychology,"['lunch', 'running', 'language_exchange']",['German'],"['music', 'photography', 'sports', 'reading']",8
+39,33,Biology,"['study buddy', 'gym']","['German', 'Chinese', 'Japanese', 'English', 'French']","['cooking', 'music', 'traveling', 'programming', 'gym', 'sports', 'chess']",2
+40,32,Computer Science,['running'],"['Chinese', 'Japanese', 'English', 'German', 'Spanish']","['gaming', 'music', 'gym']",1
+41,31,Data Science,"['gaming', 'study buddy', 'lunch']","['French', 'German']","['chess', 'reading', 'gym', 'photography', 'sports', 'music', 'hiking', 'programming']",4
+42,18,Biology,"['coffee', 'language_exchange', 'study buddy']",['Spanish'],"['traveling', 'chess', 'reading', 'sports', 'gym', 'photography', 'programming', 'cooking']",2
+43,32,Engineering,"['running', 'gym']",['German'],"['traveling', 'programming', 'sports', 'gaming', 'reading', 'hiking', 'photography']",7
+44,29,Psychology,['coffee'],"['German', 'Chinese']","['programming', 'photography', 'chess']",8
+45,24,Psychology,['coffee'],"['Chinese', 'French', 'Spanish', 'Japanese', 'German']","['hiking', 'photography', 'chess', 'programming', 'traveling', 'reading', 'sports', 'gaming', 'gym', 'music']",2
+46,27,Engineering,['coffee'],"['French', 'German', 'Spanish', 'English']","['music', 'chess', 'traveling', 'cooking', 'gym']",4
+47,22,Data Science,['lunch'],"['English', 'French']","['music', 'programming', 'hiking', 'gaming', 'photography', 'chess', 'reading', 'gym']",8
+48,24,Data Science,['language_exchange'],"['English', 'Japanese', 'Chinese', 'German', 'French']","['traveling', 'gaming', 'chess', 'cooking', 'photography', 'sports', 'music', 'reading']",3
+49,34,Psychology,"['coffee', 'gym', 'study buddy']","['Japanese', 'German']","['chess', 'sports', 'music', 'traveling', 'cooking', 'gaming', 'photography']",2
+50,28,Biology,"['lunch', 'coffee', 'language_exchange']","['English', 'Chinese', 'Spanish', 'German']","['reading', 'gym', 'traveling', 'music', 'photography', 'gaming']",2
+51,21,Engineering,"['study buddy', 'coffee']","['English', 'Japanese', 'German']","['cooking', 'photography', 'chess', 'reading', 'music', 'sports', 'hiking', 'programming', 'traveling', 'gaming']",8
+52,19,Economics,['running'],"['Chinese', 'French', 'English', 'Japanese']","['music', 'gym', 'photography', 'programming', 'hiking', 'reading']",1
+53,29,Computer Science,['study buddy'],"['Spanish', 'Chinese', 'German']","['traveling', 'music', 'gaming', 'gym', 'cooking', 'chess', 'programming']",2
+54,27,Computer Science,"['gaming', 'running', 'language_exchange']","['German', 'Spanish', 'Japanese', 'French', 'Chinese']","['hiking', 'cooking', 'music', 'programming', 'reading', 'chess', 'sports', 'gaming']",6
+55,24,Engineering,['running'],['Japanese'],"['programming', 'gaming', 'photography', 'traveling', 'chess', 'sports', 'cooking', 'music']",2
+56,28,Psychology,['gaming'],"['German', 'Japanese', 'Spanish', 'Chinese', 'French']","['cooking', 'chess', 'gym', 'programming', 'reading', 'photography', 'hiking', 'music', 'gaming', 'sports']",5
+57,33,Computer Science,"['lunch', 'language_exchange']",['German'],"['photography', 'gaming', 'traveling', 'cooking', 'sports', 'gym', 'hiking', 'chess']",6
+58,34,Psychology,"['coffee', 'lunch', 'running']","['Chinese', 'German', 'English']","['gym', 'traveling', 'music', 'photography', 'sports', 'chess']",1
+59,33,Data Science,"['language_exchange', 'coffee', 'study buddy']","['Japanese', 'French', 'Chinese', 'English', 'Spanish']","['traveling', 'gaming', 'music']",7
+60,26,Biology,"['running', 'study buddy']","['English', 'Japanese', 'German']","['hiking', 'gym', 'music', 'programming', 'chess', 'reading', 'traveling']",1
+61,28,Computer Science,"['language_exchange', 'gaming']","['Chinese', 'English', 'French']","['gym', 'programming', 'reading', 'chess', 'gaming', 'photography', 'cooking', 'traveling', 'music', 'sports']",6
+62,27,Engineering,"['language_exchange', 'running', 'gaming']","['German', 'English', 'Chinese', 'Japanese', 'Spanish']","['traveling', 'cooking', 'gaming', 'music', 'gym', 'chess', 'sports', 'programming', 'photography']",8
+63,31,Engineering,"['study buddy', 'gaming', 'language_exchange']","['English', 'Japanese', 'Spanish']","['music', 'traveling', 'chess', 'gaming', 'cooking', 'reading', 'sports', 'hiking', 'gym']",8
+64,24,Psychology,"['coffee', 'study buddy', 'gaming']","['German', 'Chinese', 'Spanish']","['gaming', 'programming', 'gym', 'music', 'hiking', 'chess']",4
+65,25,Biology,['gaming'],"['English', 'Spanish']","['photography', 'music', 'gaming', 'chess', 'traveling', 'gym', 'hiking']",4
+66,21,Psychology,"['study buddy', 'lunch']","['Chinese', 'French', 'Japanese']","['programming', 'gaming', 'cooking', 'reading', 'chess', 'gym', 'traveling', 'photography', 'sports']",7
+67,22,Economics,"['gaming', 'lunch', 'running']","['French', 'Japanese', 'Chinese', 'English', 'Spanish']","['hiking', 'photography', 'traveling']",8
+68,22,Biology,['gym'],"['Spanish', 'English', 'German']","['sports', 'music', 'gaming', 'photography', 'hiking']",1
+69,19,Engineering,"['study buddy', 'lunch', 'gym']","['English', 'French', 'Chinese']","['traveling', 'music', 'gaming', 'cooking', 'programming', 'reading']",7
+70,21,Data Science,['language_exchange'],"['English', 'German', 'French']","['sports', 'hiking', 'chess', 'traveling', 'photography', 'music', 'gaming', 'programming']",3
+71,26,Engineering,['coffee'],"['French', 'Japanese', 'Spanish', 'German', 'Chinese']","['sports', 'photography', 'hiking', 'gym', 'reading', 'cooking', 'gaming', 'music']",2
+72,28,Economics,"['gym', 'language_exchange']","['French', 'Chinese', 'Japanese', 'Spanish', 'German']","['cooking', 'chess', 'photography', 'gym', 'hiking', 'programming', 'traveling']",1
+73,28,Computer Science,"['study buddy', 'gaming', 'gym']",['Chinese'],"['music', 'hiking', 'programming', 'sports', 'reading']",7
+74,31,Computer Science,['language_exchange'],"['Chinese', 'German']","['traveling', 'gym', 'sports', 'chess', 'cooking']",6
+75,26,Psychology,['running'],"['Chinese', 'French']","['gaming', 'music', 'hiking', 'traveling', 'photography', 'sports', 'chess']",3
+76,22,Engineering,['study buddy'],['French'],"['gym', 'traveling', 'photography', 'music', 'hiking', 'chess']",2
+77,22,Psychology,"['coffee', 'lunch']","['French', 'English', 'German']","['programming', 'cooking', 'gym', 'traveling', 'music', 'sports', 'chess']",2
+78,22,Economics,"['language_exchange', 'lunch', 'gym']",['Chinese'],"['reading', 'hiking', 'gym', 'traveling', 'gaming', 'music']",2
+79,24,Data Science,"['language_exchange', 'coffee']","['Spanish', 'French', 'Japanese']","['reading', 'sports', 'hiking', 'photography', 'programming', 'cooking', 'gaming', 'chess', 'music']",2
+80,29,Engineering,"['running', 'gym']",['Japanese'],"['music', 'traveling', 'cooking', 'hiking', 'gym', 'sports', 'chess']",7
+81,30,Biology,"['study buddy', 'gym']","['French', 'English', 'German']","['music', 'traveling', 'chess', 'gym', 'cooking', 'gaming', 'photography', 'sports']",6
+82,31,Engineering,['lunch'],"['English', 'Chinese', 'Japanese', 'Spanish', 'German']","['traveling', 'gym', 'music', 'photography', 'chess', 'hiking']",1
+83,35,Biology,"['gym', 'coffee']","['English', 'Chinese', 'Spanish']","['chess', 'programming', 'sports', 'traveling', 'photography', 'music', 'gym', 'hiking', 'cooking', 'gaming']",1
+84,26,Data Science,"['running', 'language_exchange']","['Chinese', 'Japanese', 'English']","['reading', 'traveling', 'cooking', 'gym', 'music', 'sports']",4
+85,34,Computer Science,['gym'],"['Spanish', 'Chinese', 'Japanese']","['reading', 'photography', 'chess', 'music', 'traveling', 'sports', 'gym']",2
+86,20,Computer Science,['gym'],"['French', 'Chinese', 'German', 'Japanese']","['gaming', 'music', 'chess']",6
+87,29,Computer Science,['gym'],"['Spanish', 'German', 'English', 'French']","['gym', 'hiking', 'cooking', 'reading']",5
+88,31,Economics,['coffee'],"['Chinese', 'German']","['programming', 'hiking', 'music', 'reading', 'traveling', 'photography']",6
+89,21,Data Science,['gaming'],"['German', 'English']","['photography', 'programming', 'gaming', 'music', 'gym']",3
+90,25,Computer Science,"['gym', 'language_exchange', 'coffee']",['English'],"['traveling', 'hiking', 'chess']",8
+91,34,Computer Science,"['study buddy', 'language_exchange']",['French'],"['photography', 'hiking', 'gym', 'chess', 'cooking', 'programming', 'sports', 'traveling', 'reading']",7
+92,24,Economics,['language_exchange'],['Japanese'],"['reading', 'photography', 'sports', 'traveling', 'hiking', 'cooking', 'gaming', 'gym', 'music']",7
+93,31,Psychology,['gym'],"['Chinese', 'German', 'Japanese', 'French', 'English']","['cooking', 'traveling', 'photography', 'gaming', 'music', 'reading', 'programming']",5
+94,21,Psychology,['coffee'],"['English', 'Spanish']","['music', 'sports', 'traveling', 'chess', 'photography', 'hiking', 'gaming', 'cooking']",1
+95,27,Psychology,"['running', 'study buddy', 'gaming']","['German', 'Spanish', 'French']","['cooking', 'music', 'sports']",1
+96,29,Data Science,"['lunch', 'language_exchange']",['Chinese'],"['cooking', 'traveling', 'photography']",7
+97,20,Data Science,['running'],"['English', 'Chinese']","['reading', 'traveling', 'cooking', 'programming', 'gym']",5
+98,19,Engineering,['gym'],"['Spanish', 'German', 'English', 'Japanese', 'Chinese']","['reading', 'music', 'cooking', 'hiking', 'traveling', 'sports', 'photography', 'gaming', 'programming', 'gym']",8
+99,30,Psychology,"['coffee', 'study buddy', 'gym']","['Spanish', 'German']","['reading', 'chess', 'sports', 'music', 'gym', 'photography']",5
+100,22,Data Science,"['running', 'language_exchange']","['English', 'Spanish', 'French', 'Japanese']","['gym', 'hiking', 'gaming', 'reading', 'music']",4
