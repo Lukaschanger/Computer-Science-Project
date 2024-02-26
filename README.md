@@ -13,16 +13,19 @@ This project, developed as part of a Computer Science Master's program, aims to 
 ```bash
 git clone https://github.com/Lukaschanger/Computer-Science-Project
 cd Computer-Science-Project
+
 # Follow any additional setup instructions here
 
 # Usage
-To generate dummy user data, run: python Dummy_User_Creation.py
+# To generate dummy user data, run:
+python Dummy_User_Creation.py
 
-To score user moods based on their profiles, execute: python Mood_scoring.py
+# To score user moods based on their profiles, execute:
+python Mood_scoring.py
 
-For visualizing mood distribution, use: python mood_distribution_graph.py
+#For visualizing mood distribution, use:
+python mood_distribution_graph.py
 
-Contact
-For any queries or further assistance, please reach out to Lukas Kromminga at l.kromminga10@gmail.com.
+#Contact - for any queries or further assistance, please reach out to Lukas Kromminga at l.kromminga10@gmail.com.
 
 
